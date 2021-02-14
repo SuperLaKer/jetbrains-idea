@@ -1,0 +1,346 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/TheMain.java" description="A 获取SPI对象" line="27" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="B 创建SPI对象" line="436" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="C 解析SPI文本，获取所有SPI类" line="637" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="D 创建SPI对象" line="647" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="E 依赖注入" line="652" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="F 处理wrapper" line="672" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="G 返回SPI对象" line="678" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="C1 获取SPI文本路径" line="800" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="C2 解析SPI文本内容" line="874" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="C3 循环解析SPI中的类" line="892" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="C4 该类是否添加了@Adaptive" line="927" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="C5 该类是否为wrapper类" line="930" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="E1 找到Setter方法" line="698" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="E2 获取setter方法参数" line="708" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="E3 获取（自适应）属性" line="716" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="E4 完成属性注入" line="719" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/factory/AdaptiveExtensionFactory.java" description="E31 自适应属性" line="45" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/factory/SpiExtensionFactory.java" description="E32 获取自适应属性" line="32" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="E33 创建自适应属性对象" line="595" />
+    <bookmark url="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" description="E34 createAdaptive" line="1062" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dubbo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/TheMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/api/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/instance/HumanWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="1049" column="41" lean-forward="true" selection-start-line="1049" selection-start-column="41" selection-end-line="1049" selection-end-column="41" />
+              <folding>
+                <element signature="docComment;class#ExtensionLoader#0" />
+                <element signature="e#16309#16310#0" expanded="true" />
+                <element signature="e#16356#16357#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/instance/Car$Adaptive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/factory/AdaptiveExtensionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/factory/SpiExtensionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/api/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/instance/HumanWrapper.java" />
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/TheMain.java" />
+        <option value="$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java" />
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/adaptiveClass/car" />
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/adaptiveClass/car.java" />
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/adaptiveClass/CarAdapt.java" />
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/api/Car$Adaptive.java" />
+        <option value="$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/instance/Car$Adaptive.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="-14" y="6" width="1938" height="1027" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8969000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" order="3" weight="0.32953784" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Endpoints" order="9" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.2114846" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32872927" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45470694" visible="true" weight="0.19101876" />
+      <window_info anchor="bottom" id="Flow" order="10" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.2776243" />
+      <window_info anchor="right" id="Multi Preview" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.38121548" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="16" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Project Problems" order="15" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info id="Favorites" order="2" sideWeight="0.5452931" side_tool="true" visible="true" weight="0.19101876" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>name.equals(&quot;xiaoming&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;com.slk.dubbo.api.Human&quot;.equals(type)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(T) getAdaptiveExtensionClass().newInstance()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="72" column="38" lean-forward="true" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../env/Java/jdk1.8.0_271/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="509" column="48" selection-start-line="509" selection-start-column="48" selection-end-line="509" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/api/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/api/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/instance/HumanWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/factory/SpiExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/factory/AdaptiveExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/TheMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/adaptiveClass/car.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo-spi/src/main/java/com/slk/dubbo/instance/Car$Adaptive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/common/extension/ExtensionLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1049" column="41" lean-forward="true" selection-start-line="1049" selection-start-column="41" selection-end-line="1049" selection-end-column="41" />
+          <folding>
+            <element signature="docComment;class#ExtensionLoader#0" />
+            <element signature="e#16309#16310#0" expanded="true" />
+            <element signature="e#16356#16357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dubbo-parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>
