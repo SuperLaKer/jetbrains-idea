@@ -7,6 +7,23 @@
     <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java" description="注解扫描: 05-Full和Lite解析入口" line="335" />
     <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java" description="注解扫描: 06-解析到的对象在parser中" line="338" />
     <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java" description="注解扫描: 07-迭代解析Full和Lite" line="170" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java" description="注解扫描: 08-开始解析配置类" line="249" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java" description="注解扫描: 09-获取@ComponentScan值" line="288" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java" description="注解扫描: 10-扫描到了beanDefinitions" line="294" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ComponentScanAnnotationParser.java" description="注解扫描: 11-具体Scanner" line="76" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ComponentScanAnnotationParser.java" description="注解扫描: 12-是否需要代理" line="86" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ComponentScanAnnotationParser.java" description="注解扫描: 13-开始扫描(basePackage)" line="131" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java" description="注解扫描: 14-查找候选Component" line="275" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" description="注解扫描: 15-走索引（src下的类已经加载好了）" line="311" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" description="注解扫描: 16-TypeFilter" line="375" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" description="注解扫描: 17-处理class" line="384" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" description="注解扫描: 18-TypeFilter" line="386" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" description="注解扫描: 19-新建beanDefinition" line="387" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/index/CandidateComponentsIndex.java" description="建立索引: 01-索引开始的地方" line="81" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/index/CandidateComponentsIndex.java" description="建立索引: 02-断点调式" line="56" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" description="扫描类: 01-包名替换" line="417" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" description="扫描类: 02-得到包里面的类" line="419" />
+    <bookmark url="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java" description="扫描类: 03-新建beanDefinition" line="430" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="slkTop" />
@@ -14,10 +31,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/如何扫描的/FullClassMain.java">
+        <entry file="file://$PROJECT_DIR$/mybatis-spring/src/main/java/org/mybatis/spring/mapper/ClassPathMapperScanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="368">
+              <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/InitMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,28 +52,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="335" selection-start-line="335" selection-end-line="335" />
+            <state relative-caret-position="220">
+              <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="180" column="26" selection-start-line="180" selection-start-column="26" selection-end-line="180" selection-end-column="26" />
+            <state relative-caret-position="115">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassUtils.java">
+        <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="127" selection-start-line="127" selection-end-line="127" />
+            <state relative-caret-position="309">
+              <caret line="71" column="33" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -60,14 +111,11 @@
       <find>this.configuration</find>
       <find>setEnvironment</find>
       <find>projectId</find>
+      <find>componentsIndex =</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/mybatis-analyse/src/main/java/slk/slkTop/mybatisAnalyse/analyse/B一条SQL的执行流程.java" />
-      <option value="$PROJECT_DIR$/mybatis-analyse/src/main/java/slk/slkTop/mybatisAnalyse/analyse/D代理对象.java" />
-      <option value="$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/mapper/anno/RolesMapper.java" />
-      <option value="$PROJECT_DIR$/mybatis-analyse/src/main/java/slk/slkTop/mybatisAnalyse/analyse/WithInterface.java" />
       <option value="$PROJECT_DIR$/mybatis-analyse/src/main/java/slk/slkTop/mybatisAnalyse/analyse/C插件.java" />
       <option value="$PROJECT_DIR$/mybatis-analyse/src/main/java/slk/slkTop/mybatisAnalyse/analyse/A缓存设计.java" />
       <option value="$PROJECT_DIR$/mybatis-analyse/src/main/java/slk/slkTop/mybatisAnalyse/analyse/interceptors/PagePlugin.java" />
@@ -96,8 +144,6 @@
       <option value="$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/beans/DemoBean1.java" />
       <option value="$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/mapper/RolesMapper.java" />
       <option value="$PROJECT_DIR$/commons/pom.xml" />
-      <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean1.java" />
-      <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/InitMain.java" />
       <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/修改beanDefinition与AutowireMode/PackageInfo.java" />
       <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/修改beanDefinition/PackageInfo.java" />
       <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/修改AutowireMode/PackageInfo.java" />
@@ -107,14 +153,20 @@
       <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/如何扫描的/beans/ScanDemoBean1.java" />
       <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/如何扫描的/ComponentScanMain.java" />
       <option value="$PROJECT_DIR$/slk-dubbo/pom.xml" />
-      <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <option value="$PROJECT_DIR$/.idea/misc.xml" />
       <option value="$PROJECT_DIR$/.gitignore" />
-      <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       <option value="$PROJECT_DIR$/.idea/.gitignore" />
       <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/如何扫描的/ComponentScanMain.java" />
       <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/如何扫描的/FullClassMain.java" />
+      <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/beans/ScanDemoBean2.java" />
+      <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/如何扫描的/模拟扫描Class.java" />
+      <option value="$PROJECT_DIR$/mybatis-spring/src/main/java/org/mybatis/spring/mapper/ClassPathMapperScanner.java" />
+      <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean1.java" />
+      <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean2.java" />
+      <option value="$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/InitMain.java" />
+      <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      <option value="$PROJECT_DIR$/.idea/vcs.xml" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -133,14 +185,52 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
               <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis-analyse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis-analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis-analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis-analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis-analyse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisAnalyse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
@@ -177,33 +267,80 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springAPI" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="屬性填充完成" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="屬性填充完成" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slkTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkTop" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="屬性填充完成" type="462c0819:PsiDirectoryNode" />
+              <item name="InitMain.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13049000" />
+    <option name="totallyTimeSpent" value="18844000" />
   </component>
   <component name="ToolWindowManager">
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.53757226" visible="true" weight="0.23407109" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.2576" visible="true" weight="0.20562625" />
       <window_info id="Structure" order="1" sideWeight="0.49896482" weight="0.21902211" />
-      <window_info id="Favorites" order="2" sideWeight="0.46242774" side_tool="true" visible="true" weight="0.23407109" />
+      <window_info id="Favorites" order="2" sideWeight="0.7424" side_tool="true" weight="0.33690557" />
       <window_info id="Commit" order="3" />
       <window_info id="Learn" order="4" />
       <window_info id="Pull Requests" order="5" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.041436464" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.8977901" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.19751382" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.25751072" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.34254143" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.13674033" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.60497236" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="File Transfer" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -244,54 +381,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" width="538" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613285199197" />
-    <state x="210" y="0" width="905" height="824" key="CommitChangelistDialog2" timestamp="1613296701147">
+    <state x="524" y="114" width="488" height="595" key="#xdebugger.evaluate" timestamp="1613311425953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="210" y="0" width="905" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1613296701147" />
-    <state width="495" height="133" key="DebuggerActiveHint" timestamp="1613298341522">
+    <state x="524" y="114" width="488" height="595" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1613311425953" />
+    <state x="210" y="0" width="905" height="824" key="CommitChangelistDialog2" timestamp="1613316751604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="495" height="133" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1613298341522" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613296691693">
+    <state x="210" y="0" width="905" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1613316751604" />
+    <state width="1101" height="394" key="DebuggerActiveHint" timestamp="1613315182804">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1613296691693" />
+    <state width="1101" height="394" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1613315182804" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613316747237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1613316747237" />
     <state x="541" y="167" width="453" height="489" key="FileChooserDialogImpl" timestamp="1613286021124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="541" y="167" width="453" height="489" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613286021124" />
-    <state width="1491" height="152" key="GridCell.Tab.0.bottom" timestamp="1613309202830">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1613316785698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="152" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613309202830" />
-    <state width="1491" height="152" key="GridCell.Tab.0.center" timestamp="1613309202830">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613316785698" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1613316785697">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="152" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613309202830" />
-    <state width="1491" height="152" key="GridCell.Tab.0.left" timestamp="1613309202830">
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613316785697" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1613316785697">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="152" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613309202830" />
-    <state width="1491" height="152" key="GridCell.Tab.0.right" timestamp="1613309202830">
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613316785697" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1613316785697">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="152" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613309202830" />
-    <state width="1491" height="152" key="GridCell.Tab.1.bottom" timestamp="1613309202830">
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613316785697" />
+    <state width="1493" height="71" key="GridCell.Tab.1.bottom" timestamp="1613316785693">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="152" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613309202830" />
-    <state width="1491" height="152" key="GridCell.Tab.1.center" timestamp="1613309202830">
+    <state width="1493" height="71" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613316785693" />
+    <state width="1493" height="71" key="GridCell.Tab.1.center" timestamp="1613316785693">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="152" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613309202830" />
-    <state width="1491" height="152" key="GridCell.Tab.1.left" timestamp="1613309202830">
+    <state width="1493" height="71" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613316785693" />
+    <state width="1493" height="71" key="GridCell.Tab.1.left" timestamp="1613316785693">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="152" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613309202830" />
-    <state width="1491" height="152" key="GridCell.Tab.1.right" timestamp="1613309202830">
+    <state width="1493" height="71" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613316785693" />
+    <state width="1493" height="71" key="GridCell.Tab.1.right" timestamp="1613316785693">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1491" height="152" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613309202830" />
+    <state width="1493" height="71" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613316785693" />
     <state x="299" y="67" width="1025" height="689" key="Maven.ArtifactSearchDialog" timestamp="1613283167243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -300,14 +441,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="106" y="24" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613292679306" />
-    <state x="361" y="145" width="814" height="533" key="Vcs.Push.Dialog.v2" timestamp="1613296716940">
+    <state x="361" y="145" width="814" height="533" key="Vcs.Push.Dialog.v2" timestamp="1613316766053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" width="814" height="533" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613296716940" />
-    <state x="306" y="141" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1613298154568">
+    <state x="361" y="145" width="814" height="533" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613316766053" />
+    <state x="306" y="141" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1613315236745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="306" y="141" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1613298154568" />
+    <state x="306" y="141" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1613315236745" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613297359357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -325,147 +466,15 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>configClass.getMetadata().isAnnotated(Component.class.getName())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/domain/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/mapper/UsersMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/service/IUsersService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-analyse/src/main/java/slk/slkTop/mybatisAnalyse/MybatisConfigClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="73" lean-forward="true" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-spring/src/main/java/org/mybatis/spring/support/SqlSessionDaoSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-tx/5.3.1/spring-tx-5.3.1-sources.jar!/org/springframework/dao/support/DaoSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="34" column="53" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/beans/DemoBean1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/mybatis/mybatis/3.5.6/mybatis-3.5.6-sources.jar!/org/apache/ibatis/annotations/CacheNamespace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/mapper/RolesMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons/src/main/java/slk/slkTop/commons/service/UsersService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/config/BeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1061">
-          <caret line="174" column="31" selection-start-line="174" selection-start-column="12" selection-end-line="174" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/InitMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/修改beanDefinition/PackageInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -547,13 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-spring/src/main/java/org/mybatis/spring/mapper/ClassPathMapperScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="55" column="74" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/org.springframework.context.annotation.ClassPathBeanDefinitionScanner">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -562,18 +564,11 @@
           <nodes />
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="269.0" y="136.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="269.0" y="137.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -769,13 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/RootBeanDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -820,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -841,18 +822,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="85" column="17" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="549" column="16" selection-start-line="549" selection-start-column="16" selection-end-line="549" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConditionEvaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="292" selection-start-line="292" selection-end-line="292" />
         </state>
       </provider>
     </entry>
@@ -867,57 +878,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="549" column="16" selection-start-line="549" selection-start-column="16" selection-end-line="549" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="92" column="11" lean-forward="true" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18722#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/beans/ScanDemoBean2.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/如何扫描的/FullClassMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="207">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassUtils.java">
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/index/CandidateComponentsIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        <state relative-caret-position="180">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#2101#2102#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java">
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="335" selection-start-line="335" selection-end-line="335" />
+        <state relative-caret-position="77">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="e#3568#3569#0" expanded="true" />
+            <element signature="e#3595#3596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../env/Java/jdk1.8.0_271/src.zip!/java/util/concurrent/ConcurrentMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/index/CandidateComponentsIndexLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="101" column="13" lean-forward="true" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-api/target/classes/META-INF/spring.components">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ComponentScanAnnotationParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-746">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="180" column="26" lean-forward="true" selection-start-line="180" selection-start-column="26" selection-end-line="180" selection-end-column="26" />
+        <state relative-caret-position="245">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/如何扫描的/模拟扫描Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="14" />
+          <folding>
+            <element signature="e#78#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-core/5.3.1/spring-core-5.3.1-sources.jar!/org/springframework/core/type/classreading/CachingMetadataReaderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="53" column="27" lean-forward="true" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="488" column="20" lean-forward="true" selection-start-line="488" selection-start-column="20" selection-end-line="488" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-core/5.3.1/spring-core-5.3.1-sources.jar!/org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-core/5.3.1/spring-core-5.3.1-sources.jar!/org/springframework/core/type/filter/TypeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-core/5.3.1/spring-core-5.3.1-sources.jar!/org/springframework/core/type/filter/AnnotationTypeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-587">
+          <caret line="69" column="65" selection-start-line="69" selection-start-column="65" selection-end-line="69" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2353#2354#0" expanded="true" />
+            <element signature="e#2393#2394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-spring/src/main/java/org/mybatis/spring/mapper/ClassPathMapperScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/beans/InitDemoBean2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$GRADLE_USER_HOME$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="71" column="33" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-api/src/main/java/slk/slkTop/springAPI/demo/屬性填充完成/InitMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
