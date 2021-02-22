@@ -43,43 +43,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/AA_1ReadMe.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/slktop-springmvc/文档.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/AA_MarkDown.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/WebConfig.java">
+        <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/WebSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="718">
-              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,49 +55,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+        <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/SLKUserDetailsManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="488" column="5" lean-forward="true" selection-start-line="488" selection-start-column="5" selection-end-line="488" selection-end-column="5" />
+            <state relative-caret-position="299">
+              <caret line="13" column="60" lean-forward="true" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
               <folding>
-                <element signature="e#23758#23759#0" expanded="true" />
-                <element signature="e#23788#23789#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/UselessAuthProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="75" column="25" lean-forward="true" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/mvc/method/RequestMappingInfoHandlerMapping.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="65" column="78" lean-forward="true" selection-start-line="65" selection-start-column="78" selection-end-line="65" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="202" column="12" lean-forward="true" selection-start-line="202" selection-start-column="12" selection-end-line="202" selection-end-column="12" />
-              <folding>
-                <element signature="e#6302#6303#0" expanded="true" />
-                <element signature="e#6336#6337#0" expanded="true" />
-                <element signature="e#7350#7351#0" expanded="true" />
-                <element signature="e#7377#7378#0" expanded="true" />
-                <element signature="e#20353#20354#0" expanded="true" />
-                <element signature="e#20382#20383#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="184">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -163,26 +103,62 @@
       <find>handlerMappings</find>
       <find>handlerMappings =</find>
       <find>registry.pu</find>
+      <find>getServletFilters</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/WebConfig2.java" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/AA_MarkDown.java" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/controller/ClassController.java" />
-      <option value="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/controller/BeanNameController.java" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/ReadMe.md" />
-      <option value="$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/spring/SpringListener.java" />
-      <option value="$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/spring/SLKEvent.java" />
-      <option value="$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/TestAspect.java" />
-      <option value="$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/spring/SLKEventListener.java" />
-      <option value="$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/spring/SLKEventPublisher.java" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/controller/MethodController.java" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/MVCConfig.java" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/AA_1ReadMe.md" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/WebConfig.java" />
-      <option value="$PROJECT_DIR$/slktop-springmvc/文档.md" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/webinit/SecurityApplicationContext.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/webinit/ConfigSecurity.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/webinit/ConfigApp.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/webinit/RootApplicationContext.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/webinit/AppConfigurationClass.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/SecurityApplicationContext.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/登陆检验/LoadUserInfo.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/集中校验方式/LoadUserInfo.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/集中校验方式/JdbcA.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/集中校验方式/JdbcAuthentication.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/JdbcAuthentication.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/JdbcAuthentication.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/官方校验器.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/我的校验器.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/Authenticator.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/OfficeAuthenticator.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/OfficialAuthenticator.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/MyAuthenticator.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/OfficialAuthenticator.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/SLKUserDetailsManager.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/SLKUserDetailsManager.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/Authenticator.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/dao/domain/Authorities.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/dao/domain/Users.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/dao/mapper/UsersMapper.java" />
+      <option value="$PROJECT_DIR$/slktop-security/pom.xml" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/AuthProvider2.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/Authenticator.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/AuthProvider.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/SLKUserDetailsManager.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/SLKUserDetailsAuthenticationProvider.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/UselessAuthProvider.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/UserDetailsManagers.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/SecurityController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/IDefaultController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/UserController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/UserControllerImpl.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/api/IDefaultController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/CommonController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/security/CommonController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/security/UserControllerImpl.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/security/SecurityController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/security/UsersController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/UsersController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/SecurityUsersController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/OpenBeanNameController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/OpenMethodController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/RootApplicationContext.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/AppConfigurationClass.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/PrivateUsersController.java" />
+      <option value="$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/WebSecurityConfig.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -197,7 +173,7 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="slkweb Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="slktop-security" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -214,6 +190,51 @@
               <item name="slktop" type="b2602c69:ProjectViewProjectNode" />
               <item name="slktop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="slktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slktop" type="462c0819:PsiDirectoryNode" />
+              <item name="slktop-security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slktop" type="462c0819:PsiDirectoryNode" />
+              <item name="slktop-security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slktop" type="462c0819:PsiDirectoryNode" />
+              <item name="slktop-security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slktop" type="462c0819:PsiDirectoryNode" />
+              <item name="slktop-security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slktop" type="462c0819:PsiDirectoryNode" />
+              <item name="slktop-security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slktop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slktop" type="462c0819:PsiDirectoryNode" />
+              <item name="slktop-security" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -226,7 +247,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.61863357" />
+          <option name="contentProportion" value="0.34494534" />
           <treeState>
             <expand>
               <path>
@@ -246,41 +267,43 @@
     </option>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_ANONYMOUS,ALPHA_COMPARATOR" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_ANONYMOUS,ALPHA_COMPARATOR,SHOW_FIELDS" />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87747000" />
+    <option name="totallyTimeSpent" value="118867000" />
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.13288288" visible="true" weight="0.22505024" />
-      <window_info id="Structure" order="1" sideWeight="0.14253394" weight="0.21366376" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.20994475" weight="0.2813128" />
+      <window_info id="Structure" order="1" sideWeight="0.14253394" weight="0.22505024" />
       <window_info id="Favorites" order="2" sideWeight="0.8671171" side_tool="true" weight="0.22572003" />
       <window_info id="Commit" order="3" />
       <window_info id="Learn" order="4" />
       <window_info id="Pull Requests" order="5" />
-      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Web" order="6" sideWeight="0.7900553" side_tool="true" weight="0.23040858" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.041436464" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.8977901" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.3785395" side_tool="true" weight="0.44756278" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.35220996" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.27209944" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.4313463" side_tool="true" weight="0.48895028" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.5686537" weight="0.28314918" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.18003026" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Problems View" order="6" weight="0.30939227" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="File Transfer" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Profiler" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TypeScript" order="13" />
-      <window_info anchor="bottom" id="Endpoints" order="14" show_stripe_button="false" weight="0.6353591" />
-      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.69658405" weight="0.4640884" />
-      <window_info anchor="bottom" id="Internal Method Tracing" order="16" />
-      <window_info anchor="bottom" id="Spring" order="17" weight="0.5414365" />
-      <window_info anchor="bottom" id="Flow" order="18" />
-      <window_info anchor="bottom" id="Services" order="19" sideWeight="0.6214605" weight="0.40607736" />
-      <window_info anchor="right" id="Maven" order="0" weight="0.21180275" />
+      <window_info anchor="bottom" id="CheckStyle" order="8" weight="0.32872927" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Profiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Endpoints" order="15" show_stripe_button="false" weight="0.6353591" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.69658405" weight="0.15883978" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="17" />
+      <window_info anchor="bottom" id="Spring" order="18" weight="0.5414365" />
+      <window_info anchor="bottom" id="Flow" order="19" />
+      <window_info anchor="bottom" id="Services" order="20" sideWeight="0.6214605" weight="0.40607736" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.21098459" />
       <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="Bean Validation" order="3" show_stripe_button="false" />
@@ -295,14 +318,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="287" y="38" width="981" height="692" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1613804795950" />
-    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613828404902">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613879582648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613828404902" />
-    <state x="511" y="113" width="513" height="597" key="#com.intellij.ide.util.MemberChooser" timestamp="1613812662540">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613879582648" />
+    <state x="753" y="131" width="513" height="597" key="#com.intellij.ide.util.MemberChooser" timestamp="1613975572166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="511" y="113" width="513" height="597" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1613812662540" />
+    <state x="753" y="131" width="513" height="597" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1613975572166" />
     <state x="302" y="335" width="932" height="153" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1613297301414">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -311,10 +334,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="253" y="73" width="1030" height="677" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1613826724486" />
-    <state x="499" y="159" width="538" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613285199197">
+    <state x="499" y="159" width="538" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613888672882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" width="538" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613285199197" />
+    <state x="499" y="159" width="538" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613888672882" />
     <state x="154" y="18" width="1182" height="764" key="#xdebugger.evaluate" timestamp="1613831302088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -323,22 +346,27 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" width="814" height="729" key="#意图/0.0.1536.824@0.0.1536.824" timestamp="1613813650217" />
-    <state x="250" y="21" width="905" height="738" key="CommitChangelistDialog2" timestamp="1613837259085">
+    <state x="249" y="0" width="1038" height="824" key="#项目结构" timestamp="1613885943956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="249" y="0" width="1038" height="824" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1613885943956" />
+    <state x="208" y="19" width="905" height="738" key="CommitChangelistDialog2" timestamp="1613921940204">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="208" y="19" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1613921940204" />
     <state x="250" y="21" width="905" height="738" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1613837259085" />
-    <state width="1087" height="287" key="DebuggerActiveHint" timestamp="1613834957884">
+    <state width="1087" height="287" key="DebuggerActiveHint" timestamp="1613895210553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1087" height="287" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1613834957884" />
+    <state width="1087" height="287" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1613895210553" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613316747237">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1613316747237" />
-    <state x="541" y="167" width="562" height="489" key="FileChooserDialogImpl" timestamp="1613815898433">
+    <state x="541" y="167" width="629" height="489" key="FileChooserDialogImpl" timestamp="1613888272051">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="541" y="167" width="562" height="489" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613815898433" />
+    <state x="541" y="167" width="629" height="489" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613888272051" />
     <state width="1493" height="194" key="GridCell.Tab.-1.bottom" timestamp="1613815426433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -355,78 +383,88 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="194" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1613815426433" />
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1613837276917">
+    <state width="1238" height="91" key="GridCell.Tab.0.bottom" timestamp="1613921985618">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="91" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1613921985618" />
+    <state width="1493" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613901786782" />
+    <state width="1238" height="91" key="GridCell.Tab.0.center" timestamp="1613921985618">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="91" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1613921985618" />
+    <state width="1493" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613901786782" />
+    <state width="1238" height="91" key="GridCell.Tab.0.left" timestamp="1613921985618">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="91" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1613921985618" />
+    <state width="1493" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613901786782" />
+    <state width="1238" height="91" key="GridCell.Tab.0.right" timestamp="1613921985618">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="91" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1613921985618" />
+    <state width="1493" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613901786782" />
+    <state width="1238" height="91" key="GridCell.Tab.1.bottom" timestamp="1613921985619">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="91" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1613921985619" />
+    <state width="1493" height="216" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613901786628" />
+    <state width="1238" height="91" key="GridCell.Tab.1.center" timestamp="1613921985618">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="91" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1613921985618" />
+    <state width="1493" height="216" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613901786628" />
+    <state width="1238" height="91" key="GridCell.Tab.1.left" timestamp="1613921985618">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="91" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1613921985618" />
+    <state width="1493" height="216" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613901786628" />
+    <state width="1238" height="91" key="GridCell.Tab.1.right" timestamp="1613921985618">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="91" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1613921985618" />
+    <state width="1493" height="216" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613901786628" />
+    <state x="299" y="67" width="1025" height="689" key="Maven.ArtifactSearchDialog" timestamp="1613890678276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613837276917" />
-    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1613837276917">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613837276917" />
-    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1613837276917">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613837276917" />
-    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1613837276917">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613837276917" />
-    <state width="1493" height="169" key="GridCell.Tab.1.bottom" timestamp="1613837276911">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="169" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613837276911" />
-    <state width="1493" height="169" key="GridCell.Tab.1.center" timestamp="1613837276911">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="169" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613837276911" />
-    <state width="1493" height="169" key="GridCell.Tab.1.left" timestamp="1613837276911">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="169" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613837276911" />
-    <state width="1493" height="169" key="GridCell.Tab.1.right" timestamp="1613837276911">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="169" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613837276911" />
-    <state x="299" y="67" width="1025" height="689" key="Maven.ArtifactSearchDialog" timestamp="1613283167243">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="299" y="67" width="1025" height="689" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1613283167243" />
+    <state x="299" y="67" width="1025" height="689" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1613890678276" />
     <state x="209" y="18" width="837" height="800" key="Registry" timestamp="1613809300575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="18" width="837" height="800" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1613809300575" />
-    <state x="125" y="45" width="996" height="710" key="SettingsEditor" timestamp="1613826495893">
+    <state x="125" y="45" width="996" height="710" key="SettingsEditor" timestamp="1613898013860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="125" y="45" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613826495893" />
+    <state x="125" y="45" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613898013860" />
     <state width="537" height="468" key="SwitcherDM" timestamp="1613835379014">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="537" height="468" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1613835379014" />
-    <state x="361" y="145" width="814" height="533" key="Vcs.Push.Dialog.v2" timestamp="1613837267225">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="301" y="134" width="814" height="533" key="Vcs.Push.Dialog.v2" timestamp="1613921950381">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
+    <state x="301" y="134" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1613921950381" />
     <state x="361" y="145" width="814" height="533" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613837267225" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1613827221480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1613827221480" />
-    <state x="306" y="141" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1613834253481">
+    <state x="306" y="141" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1613900876313">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="306" y="141" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1613834253481" />
-    <state x="401" y="22" width="733" height="779" key="new project wizard" timestamp="1613622451144">
+    <state x="306" y="141" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1613900876313" />
+    <state x="162" y="71" width="733" height="692" key="new project wizard" timestamp="1613921983377">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="162" y="71" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1613921983377" />
+    <state x="194" y="77" width="733" height="692" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1613880537533" />
+    <state x="485" y="120" width="672" height="618" key="search.everywhere.popup" timestamp="1613900220581">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="401" y="22" width="733" height="779" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1613622451144" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613835369358">
+    <state x="485" y="120" width="672" height="618" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613900220581" />
+    <state x="385" y="95" width="766" height="633" key="spring file set editor" timestamp="1613877835013">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613835369358" />
-    <state x="385" y="95" width="766" height="633" key="spring file set editor" timestamp="1613292285979">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="385" y="95" width="766" height="633" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1613292285979" />
+    <state x="385" y="95" width="766" height="633" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1613877835013" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
@@ -497,397 +535,421 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/ExtendServletConfigInitializer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/TestAspect.java">
+    <entry file="file://$PROJECT_DIR$/slktop-mybatis/src/main/java/aa/slktop/mybatisapi/annno/EnableSpringDataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="167">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/spring/SLKEventListener.java">
+    <entry file="file://$PROJECT_DIR$/slktop-mybatis/src/main/java/aa/slktop/mybatisapi/annno/ImportDruidDataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="299">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/spring/SLKEvent.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/slk/slkEnv/slkEnv/v1/slkEnv-v1.jar!/slk/slkEnv/annno/EnableSpringDataSource.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="353">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/event/SimpleApplicationEventMulticaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="763">
-          <caret line="169" column="26" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/webinit/ConfigSecurity.java" />
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/SecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/MainAbstract.java" />
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/event/ApplicationEventMulticaster.java">
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/几种校验方式/Authenticator.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/core/userdetails/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
+        <state relative-caret-position="201">
+          <caret line="367" column="44" lean-forward="true" selection-start-line="367" selection-start-column="44" selection-end-line="367" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-listener/src/main/java/aa/slktop/listener/spring/SLKEventPublisher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+    <entry file="uml://MAVEN/aa.slktop:slktop-security:v1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>aa.slktop:slktop-security:v1</OriginalElement>
+          <nodes>
+            <node x="" y="">aa.slktop:slktop-security:v1</node>
+            <node x="" y="">com.baomidou:mybatis-plus:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/com.baomidou:mybatis-plus-core:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/com.baomidou:mybatis-plus-core:jar:3.4.2/com.baomidou:mybatis-plus-annotation:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/com.baomidou:mybatis-plus-core:jar:3.4.2/com.github.jsqlparser:jsqlparser:jar:4.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/com.baomidou:mybatis-plus-core:jar:3.4.2/org.mybatis:mybatis:jar:3.5.6</node>
+            <node x="" y="">com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/org.mybatis:mybatis-spring:jar:2.0.5</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:5.4.5</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:5.4.5/org.springframework:spring-aop:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:5.4.5/org.springframework:spring-beans:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:5.4.5/org.springframework:spring-context:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:5.4.5/org.springframework:spring-core:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:5.4.5/org.springframework:spring-core:jar:5.2.13.RELEASE/org.springframework:spring-jcl:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:5.4.5/org.springframework:spring-expression:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-web:jar:5.4.5/org.springframework:spring-web:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework.security:spring-security-config:jar:5.4.5</node>
+            <node x="" y="">org.springframework.security:spring-security-core:jar:5.4.5</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:5.2.13.RELEASE</node>
+            <node x="" y="">org.springframework:spring-jdbc:jar:5.2.13.RELEASE/org.springframework:spring-tx:jar:5.2.13.RELEASE</node>
+            <node x="" y="">junit:junit:jar:4.11</node>
+            <node x="" y="">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">javax.servlet:javax.servlet-api:jar:4.0.1</node>
+            <node x="" y="">slk.slkEnv:slkEnv:jar:v1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8984547461368654" x="443.0" y="261.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.1/spring-web-5.3.1-sources.jar!/org/springframework/web/context/support/WebApplicationObjectSupport.java">
+    <entry file="file://$PROJECT_DIR$/slktop-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="1088">
+          <caret line="69" column="21" lean-forward="true" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/support/ApplicationObjectSupport.java">
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/dao/mapper/UsersMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/support/ApplicationContextAwareProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/BeanFactoryUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="377" selection-start-line="377" selection-end-line="377" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/META-INF/spring.schemas">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/META-INF/spring.handlers">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.1/spring-web-5.3.1-sources.jar!/org/springframework/web/context/WebApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/AnnotatedBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="252" selection-start-line="252" selection-end-line="252" />
-          <folding>
-            <element signature="e#5746#5747#0" expanded="true" />
-            <element signature="e#5802#5803#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.1/spring-web-5.3.1-sources.jar!/org/springframework/web/context/support/AnnotationConfigWebApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="219" selection-start-line="219" selection-end-line="219" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="129" selection-start-line="129" selection-end-line="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="233" selection-start-line="233" selection-end-line="233" />
-          <folding>
-            <element signature="e#12311#12312#0" expanded="true" />
-            <element signature="e#12368#12369#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="332" selection-start-line="332" selection-end-line="332" />
-          <folding>
-            <element signature="e#11252#11704#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../env/Java/jdk1.8.0_271/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="683" selection-start-line="683" selection-end-line="683" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2371">
-          <caret line="298" column="43" lean-forward="true" selection-start-line="298" selection-start-column="43" selection-end-line="298" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/config/annotation/DelegatingWebMvcConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="284" selection-start-line="284" selection-end-line="284" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="335" column="21" selection-start-line="335" selection-start-column="21" selection-end-line="335" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="773" selection-start-line="773" selection-end-line="773" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="1024" selection-start-line="1024" selection-end-line="1024" />
-          <folding>
-            <element signature="e#35076#35631#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/controller/BeanNameController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/MVCConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/controller/MethodController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/HttpServletBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="148" column="22" selection-start-line="148" selection-start-column="22" selection-end-line="148" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/DispatcherServlet.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-326" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="557" selection-start-line="557" selection-end-line="557" />
-          <folding>
-            <element signature="e#14919#14920#0" expanded="true" />
-            <element signature="e#14951#14952#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/event/SourceFilteringListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/handler/BeanNameUrlHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../env/Java/jdk1.8.0_271/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/BeanUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="211" selection-start-line="211" selection-end-line="211" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/handler/AbstractDetectingUrlHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.1/spring-beans-5.3.1-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="608" selection-start-line="608" selection-end-line="608" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="1185" selection-start-line="1185" selection-end-line="1185" />
-          <folding>
-            <element signature="e#48545#48546#0" expanded="true" />
-            <element signature="e#48601#48602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.1/spring-context-5.3.1-sources.jar!/org/springframework/context/event/GenericApplicationListenerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-          <folding>
-            <element signature="e#2261#2262#0" expanded="true" />
-            <element signature="e#2307#2308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="488" column="5" lean-forward="true" selection-start-line="488" selection-start-column="5" selection-end-line="488" selection-end-column="5" />
-          <folding>
-            <element signature="e#23758#23759#0" expanded="true" />
-            <element signature="e#23788#23789#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/mvc/method/RequestMappingInfoHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="65" column="78" lean-forward="true" selection-start-line="65" selection-start-column="78" selection-end-line="65" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="202" column="12" lean-forward="true" selection-start-line="202" selection-start-column="12" selection-end-line="202" selection-end-column="12" />
-          <folding>
-            <element signature="e#6302#6303#0" expanded="true" />
-            <element signature="e#6336#6337#0" expanded="true" />
-            <element signature="e#7350#7351#0" expanded="true" />
-            <element signature="e#7377#7378#0" expanded="true" />
-            <element signature="e#20353#20354#0" expanded="true" />
-            <element signature="e#20382#20383#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="75" column="25" lean-forward="true" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/AA_MarkDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
-          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="398">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-springmvc/src/main/java/aa/slktop/springmvc/AA_1ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/dao/domain/Authorities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slktop-springmvc/文档.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/slktop-security/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="89" column="43" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="43" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/dao/domain/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/slk/slkEnv/slkEnv/v1/slkEnv-v1.jar!/slk/slkEnv/impl/MybatisSqlSessionFactoryProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/slk/slkEnv/slkEnv/v1/slkEnv-v1.jar!/slk/slkEnv/annno/EnableMybatisSpring.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/core/userdetails/UserDetailsPasswordService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/provisioning/InMemoryUserDetailsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="51" column="82" selection-start-line="51" selection-start-column="82" selection-end-line="51" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.4.5/spring-security-web-5.4.5-sources.jar!/org/springframework/security/web/context/AbstractSecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1379">
+          <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+          <folding>
+            <element signature="e#5113#5114#0" expanded="true" />
+            <element signature="e#5132#5133#0" expanded="true" />
+            <element signature="e#9934#9935#0" expanded="true" />
+            <element signature="e#9986#9987#0" expanded="true" />
+            <element signature="e#10740#10741#0" expanded="true" />
+            <element signature="e#10758#10759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/SecurityApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.13.RELEASE/spring-jdbc-5.2.13.RELEASE-sources.jar!/org/springframework/jdbc/core/support/JdbcDaoSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="e#3270#3271#0" expanded="true" />
+            <element signature="e#3301#3302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/provisioning/JdbcUserDetailsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+          <folding>
+            <element signature="e#6862#6863#0" expanded="true" />
+            <element signature="e#6894#6895#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/UserDetailsManagers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#users#1;class#Authenticator#0" />
+            <element signature="method#mySelf#0;class#Authenticator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/api/IDefaultController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/security/UserControllerImpl.java" />
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/security/CommonController.java" />
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/api/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/OpenBeanNameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/OpenMethodController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/core/userdetails/jdbc/JdbcDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+          <folding>
+            <element signature="e#6291#6292#0" expanded="true" />
+            <element signature="e#6330#6331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/RootApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/authentication/ProviderManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="91" column="14" lean-forward="true" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/SLKUserDetailsAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.4.5/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/method/configuration/EnableGlobalMethodSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/AppConfigurationClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
+          <folding>
+            <element signature="e#2528#2529#0" expanded="true" />
+            <element signature="e#2580#2581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/controller/PrivateUsersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-mybatis/src/main/java/aa/slktop/mybatisapi/TheSqlSessionFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/core/userdetails/UserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/provisioning/UserDetailsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/SLKUserDetailsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="60" lean-forward="true" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/authentication/AuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.4.5/spring-security-core-5.4.5-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="122" column="19" lean-forward="true" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.4.5/spring-security-config-5.4.5-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="310" column="5" lean-forward="true" selection-start-line="310" selection-start-column="5" selection-end-line="310" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slktop-security/src/main/java/aa/slktop/security/authentication/UselessAuthProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -908,7 +970,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>slktop-springmvc</last-edited>
+          <last-edited>slktop-security</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
