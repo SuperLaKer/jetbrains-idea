@@ -1,0 +1,743 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-config/5.4.1/spring-security-config-5.4.1-sources.jar!/org/springframework/security/config/annotation/web/configurers/FormLoginConfigurer.java" description="表单认证: 01-表单认证过滤器" line="78" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="security-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/src/main/java/aa/slksecurity/auth/SecurityApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/src/main/java/aa/slksecurity/auth/SLKSecurityWebApplicationInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/src/main/java/aa/slksecurity/auth/SLKWebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/controller/ControllerPrivate.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/UsersDetailsBean.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/InMemoryBean.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/SLKUsersDetailsJDBC.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/AppConfigClasss.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/SLKJdbcUserDetailsManager.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/UserDetailsManagerBeans.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKInMemoryUserDetails.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/UserBuilder.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/webapp/index.jsp" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/pom.xml" />
+      <option value="$PROJECT_DIR$/slksecurity-parent/pom.xml" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/DispatcherServletInitializer.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/SecurityConfig.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/MVCConfig.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/Dis.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKUserBuilder.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKJdbcUserDetailsProvider.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKJdbcUserDetails.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKJdbcUserDetailsManager.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKAuthenticationProvider.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/controller/ControllerPublic.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/CommonBeans.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKUserDetailsAuthenticationProvider.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/AppConfigClass.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/controller/WebSecurityConfig.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/SecurityWebApplicationInitializer.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/MvcWebApplicationInitializer.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/MvcWebApplicationInitializerAndMvcConfiguer.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/MvcWebApplicationInitializerAndMvcConfigurer.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/WebMvcInitializerAndConfigurer.java" />
+      <option value="$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/WebSecurityConfig.java" />
+      <option value="$PROJECT_DIR$/slksecurity-springboot-parent/pom.xml" />
+      <option value="$PROJECT_DIR$/slksecurity-parent-springboot/pom.xml" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/auth2/dao/domain/Users.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/dao/domain/Users.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/基础的数据库认证/SecurityConfig.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/基础的数据库认证/SLKJdbcUserDetailsManager.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/beans/beanDef/SLKAuthenticationProvider.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/WebSecurityConfig.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/beans/CommonBeans.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/dao/mapper/UsersMapper.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/WebSecurity.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/SLKSecurityWebApplicationInitializer.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/controller/ControllerPublic.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/SecurityApplication.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/SLKWebSecurityConfig.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/beans/beanDef/SLKUserBuilder.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/controller/ControllerPrivate.java" />
+      <option value="$PROJECT_DIR$/slksecurity-boot/pom.xml" />
+      <option value="$PROJECT_DIR$/slksecurity-auth2-boot/pom.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="slksecurity-boot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="slksecurity-boot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="依赖" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="slksecurity-boot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="依赖" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="slk.slkEnv:slkEnv:v1" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="slksecurity-springboot-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slkSecurity" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,ALPHA_COMPARATOR" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20412000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49889135" visible="true" weight="0.24179505" />
+      <window_info id="Favorites" order="1" sideWeight="0.50110865" side_tool="true" weight="0.2464836" />
+      <window_info id="Commit" order="2" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info id="Structure" order="4" sideWeight="0.864745" weight="0.18486269" />
+      <window_info id="Learn" order="5" show_stripe_button="false" />
+      <window_info id="Web" order="6" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32872927" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.78867406" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.24447514" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.32872927" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Endpoints" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.110497236" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="16" />
+      <window_info anchor="bottom" id="Spring" order="17" />
+      <window_info anchor="bottom" id="Flow" order="18" />
+      <window_info anchor="bottom" id="Services" order="19" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="20" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.34695244" />
+      <window_info anchor="right" id="Word Book" order="1" side_tool="true" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="布局验证" order="7" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614230389517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614230389517" />
+    <state x="384" y="114" width="799" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1614235131562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="384" y="114" width="799" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614235131562" />
+    <state x="526" y="279" width="483" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614239045476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="279" width="483" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1614239045476" />
+    <state width="423" height="133" key="DebuggerActiveHint" timestamp="1614239817726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="423" height="133" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1614239817726" />
+    <state x="548" y="153" width="438" height="517" key="FileChooserDialogImpl" timestamp="1614245375369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="153" width="438" height="517" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614245375369" />
+    <state width="1493" height="543" key="GridCell.Tab.0.bottom" timestamp="1614245582561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="543" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614245582561" />
+    <state width="1493" height="543" key="GridCell.Tab.0.center" timestamp="1614245582561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="543" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614245582561" />
+    <state width="1493" height="543" key="GridCell.Tab.0.left" timestamp="1614245582561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="543" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614245582561" />
+    <state width="1493" height="543" key="GridCell.Tab.0.right" timestamp="1614245582561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="543" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614245582561" />
+    <state width="1493" height="149" key="GridCell.Tab.1.bottom" timestamp="1614245582557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614245582557" />
+    <state width="1493" height="149" key="GridCell.Tab.1.center" timestamp="1614245582557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614245582557" />
+    <state width="1493" height="149" key="GridCell.Tab.1.left" timestamp="1614245582557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614245582557" />
+    <state width="1493" height="149" key="GridCell.Tab.1.right" timestamp="1614245582557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614245582557" />
+    <state width="1493" height="149" key="GridCell.Tab.2.bottom" timestamp="1614245582558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614245582558" />
+    <state width="1493" height="149" key="GridCell.Tab.2.center" timestamp="1614245582557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1614245582557" />
+    <state width="1493" height="149" key="GridCell.Tab.2.left" timestamp="1614245582557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1614245582557" />
+    <state width="1493" height="149" key="GridCell.Tab.2.right" timestamp="1614245582557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1614245582557" />
+    <state x="429" y="116" width="677" height="592" key="NewModule_or_Project.wizard" timestamp="1614245381967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="116" width="677" height="592" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1614245381967" />
+    <state x="270" y="57" width="996" height="710" key="SettingsEditor" timestamp="1614245384262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614245384262" />
+    <state x="421" y="58" width="816" height="678" key="new project wizard" timestamp="1614241289266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="58" width="816" height="678" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1614241289266" />
+    <state x="466" y="83" width="672" height="678" key="search.everywhere.popup" timestamp="1614233862769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="466" y="83" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614233862769" />
+    <state x="385" y="95" width="766" height="633" key="spring file set editor" timestamp="1614227431240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="95" width="766" height="633" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1614227431240" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-core/5.4.1/spring-security-core-5.4.1-sources.jar!/org/springframework/security/core/userdetails/UserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-core/5.4.1/spring-security-core-5.4.1-sources.jar!/org/springframework/security/authentication/AuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/controller/ControllerPublic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-config/5.4.1/spring-security-config-5.4.1-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="356" column="25" lean-forward="true" selection-start-line="356" selection-start-column="25" selection-end-line="356" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="24" lean-forward="true" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-core/5.4.1/spring-security-core-5.4.1-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="88" column="36" lean-forward="true" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+          <folding>
+            <element signature="e#2659#2660#0" expanded="true" />
+            <element signature="e#2744#2745#0" expanded="true" />
+            <element signature="e#3688#3689#0" expanded="true" />
+            <element signature="e#3770#3771#0" expanded="true" />
+            <element signature="e#6243#6244#0" expanded="true" />
+            <element signature="e#6277#6278#0" expanded="true" />
+            <element signature="e#6462#6463#0" expanded="true" />
+            <element signature="e#6499#6500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKUserBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-core/5.4.1/spring-security-core-5.4.1-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="111" column="72" selection-start-line="111" selection-start-column="72" selection-end-line="111" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/WebMvcInitializerAndConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-web/5.4.1/spring-security-web-5.4.1-sources.jar!/org/springframework/security/web/util/matcher/RequestMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="37" column="45" lean-forward="true" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/CommonBeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/beans/beanDef/SLKUserDetailsAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-web/5.4.1/spring-security-web-5.4.1-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <folding>
+            <element signature="e#2593#2594#0" expanded="true" />
+            <element signature="e#2639#2640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-config/5.4.1/spring-security-config-5.4.1-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractAuthenticationFilterConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="335" lean-forward="true" selection-start-line="335" selection-end-line="335" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-config/5.4.1/spring-security-config-5.4.1-sources.jar!/org/springframework/security/config/annotation/web/configurers/CsrfConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530">
+          <caret line="109" column="39" selection-start-line="109" selection-start-column="39" selection-end-line="109" selection-end-column="39" />
+          <folding>
+            <element signature="e#3955#3956#0" expanded="true" />
+            <element signature="e#3984#3985#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-config/5.4.1/spring-security-config-5.4.1-sources.jar!/org/springframework/security/config/annotation/web/configurers/FormLoginConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="78" column="42" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="55" />
+          <folding>
+            <element signature="docComment;method#loginPage#0;class#FormLoginConfigurer#0" />
+            <element signature="e#7702#7703#0" expanded="true" />
+            <element signature="e#7742#7743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-parent-springboot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/officeAuth2/IntrospectEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/officeAuth2/Auth2ServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-989">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/基础的数据库认证/SLKJdbcUserDetailsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/基础的数据库认证/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/SecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/AppConfigClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/dao/mapper/UsersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/dao/domain/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/dao/domain/Authorities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-config/5.4.1/spring-security-config-5.4.1-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="2539" lean-forward="true" selection-start-line="2539" selection-end-line="2539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-web/5.4.1/spring-security-web-5.4.1-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/controller/Auth2Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/java/aa/slksecurity/controller/ControllerPrivate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-webmvc/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/controller/ControllerPublic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/resources/templates/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/SLKWebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/beans/CommonBeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/SLKSecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../repository/org/springframework/security/spring-security-core/5.4.1/spring-security-core-5.4.1-sources.jar!/org/springframework/security/provisioning/InMemoryUserDetailsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/SecurityApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/controller/ControllerPrivate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/beans/beanDef/SLKUserDetailsAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/boot/beans/beanDef/SLKAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/src/main/java/aa/slksecurity/auth/beans/beanDef/SLKUserBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-boot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/slksecurity-boot.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/src/main/java/aa/slksecurity/auth/dao/domain/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/src/main/java/aa/slksecurity/auth/SecurityApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/src/main/java/aa/slksecurity/auth/SLKSecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slksecurity-auth2-boot/src/main/java/aa/slksecurity/auth/SLKWebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>slksecurity-auth2-boot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

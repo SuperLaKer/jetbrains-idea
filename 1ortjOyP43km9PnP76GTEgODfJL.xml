@@ -1,0 +1,516 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/CustomUserAuthenticationConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/AuthorizationServerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+              <folding>
+                <element signature="e#2320#2321#0" expanded="true" />
+                <element signature="e#2362#2363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../repository/org/springframework/cloud/spring-cloud-context/2.0.1.RELEASE/spring-cloud-context-2.0.1.RELEASE.jar!/org/springframework/cloud/bootstrap/encrypt/KeyProperties.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="15" column="66" lean-forward="true" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/TestClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/TestJwt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="42" column="113" selection-start-line="42" selection-start-column="113" selection-end-line="42" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/WebSecurityConfig.java" />
+      <option value="$PROJECT_DIR$/xc-govern-center/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/UcenterAuthApplication.java" />
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/CustomUserAuthenticationConverter.java" />
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/TestJwt.java" />
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/pom.xml" />
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/client/UserClient.java" />
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/UserDetailsServiceImpl.java" />
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/AuthorizationServerConfig.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xcEduService01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xcEduService01" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-ucenter-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.096994534" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="已失败" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="配置" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="局部" currentWorkingDirectory="D:\dev\project\examples\xcEduService01\" commandHistoryFileName="history-2" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestJwt_testCreateJwt - 2021.02.23 at 17h 03m 18s.xml">
+      <configuration name="TestJwt.testCreateJwt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestJwt_testCreateJwt - 2021.02.23 at 17h 04m 14s.xml">
+      <configuration name="TestJwt.testCreateJwt" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5845000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22371066" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="EJB" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Persistence" order="8" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.39640883" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.27348065" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Endpoints" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="17" weight="0.17679559" />
+      <window_info anchor="bottom" id="Java Enterprise" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="19" visible="true" weight="0.1436464" />
+      <window_info anchor="right" id="Word Book" order="0" side_tool="true" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="布局验证" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="4" show_stripe_button="false" />
+    </layout>
+  </component>
+  <component name="UnlinkedProjectNotification">
+    <option name="disabledNotifications">
+      <set>
+        <option value="MAVEN" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614057489830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614057489830" />
+    <state x="299" y="0" width="938" height="824" key="CommitChangelistDialog2" timestamp="1614057368641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="0" width="938" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1614057368641" />
+    <state width="1321" height="76" key="GridCell.Tab.0.bottom" timestamp="1614072753077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1321" height="76" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614072753077" />
+    <state width="1321" height="76" key="GridCell.Tab.0.center" timestamp="1614072753077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1321" height="76" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614072753077" />
+    <state width="1321" height="76" key="GridCell.Tab.0.left" timestamp="1614072753077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1321" height="76" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614072753077" />
+    <state width="1321" height="76" key="GridCell.Tab.0.right" timestamp="1614072753077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1321" height="76" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614072753077" />
+    <state width="1321" height="76" key="GridCell.Tab.1.bottom" timestamp="1614072753078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1321" height="76" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614072753078" />
+    <state width="1321" height="76" key="GridCell.Tab.1.center" timestamp="1614072753077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1321" height="76" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614072753077" />
+    <state width="1321" height="76" key="GridCell.Tab.1.left" timestamp="1614072753077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1321" height="76" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614072753077" />
+    <state width="1321" height="76" key="GridCell.Tab.1.right" timestamp="1614072753078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1321" height="76" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614072753078" />
+    <state x="270" y="57" width="996" height="710" key="SettingsEditor" timestamp="1614056733771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614056733771" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/config/RabbitMQConfig.java" />
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/dao/XcTaskHisRepository.java" />
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/service/LearningService.java" />
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/mq/ChooseCourseTask.java" />
+    <entry file="file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/LearningApplication.java" />
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/task/XcTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/service/TaskService.java" />
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/mq/ChooseCourseTask.java" />
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/dao/XcTaskHisRepository.java" />
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/config/RabbitMQConfig.java" />
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter/src/main/resources/com/xuecheng/ucenter/dao/XcMenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-govern-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-govern-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-govern-center/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-govern-center/src/main/java/com/xuecheng/govern/center/GovernCenterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-govern-center/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="49" selection-start-line="49" selection-start-column="4" selection-end-line="58" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../repository/org/springframework/security/spring-security-core/5.0.4.RELEASE/spring-security-core-5.0.4.RELEASE.jar!/org/springframework/security/core/authority/AuthorityUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/UcenterAuthApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/controller/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="25" lean-forward="true" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/UserJwt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/service/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/CustomUserAuthenticationConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/TestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/main/java/com/xuecheng/auth/config/AuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <element signature="e#2320#2321#0" expanded="true" />
+            <element signature="e#2362#2363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../repository/org/springframework/cloud/spring-cloud-context/2.0.1.RELEASE/spring-cloud-context-2.0.1.RELEASE.jar!/org/springframework/cloud/bootstrap/encrypt/KeyProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="66" lean-forward="true" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-ucenter-auth/src/test/java/com/xuecheng/auth/TestJwt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="113" selection-start-line="42" selection-start-column="113" selection-end-line="42" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

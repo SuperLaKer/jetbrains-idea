@@ -1,0 +1,111 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/SystemEnv.py" />
+    </changedPaths>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="394000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.07258064" visible="true" weight="0.19557936" />
+      <window_info id="Structure" order="1" sideWeight="0.92741936" side_tool="true" weight="0.19557936" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31491712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="CheckStyle" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="6" />
+      <window_info anchor="bottom" id="Endpoints" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="Flow" order="6" />
+      <window_info anchor="bottom" id="Services" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="SciView" order="6" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614222408961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614222408961" />
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom" timestamp="1614222797426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614222797426" />
+    <state width="1493" height="200" key="GridCell.Tab.0.center" timestamp="1614222797426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614222797426" />
+    <state width="1493" height="200" key="GridCell.Tab.0.left" timestamp="1614222797426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614222797426" />
+    <state width="1493" height="200" key="GridCell.Tab.0.right" timestamp="1614222797426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614222797426" />
+    <state x="130" y="58" width="996" height="710" key="SettingsEditor" timestamp="1614222794488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="130" y="58" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614222794488" />
+    <state x="413" y="0" width="709" height="824" key="new project wizard" timestamp="1614222469804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="413" y="0" width="709" height="824" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1614222469804" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/ProgramData/Miniconda3/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SystemEnv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

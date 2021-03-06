@@ -1,0 +1,654 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/ApplicationMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding>
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/ScheduledTaskService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2290#2291#0" expanded="true" />
+                <element signature="e#2350#2351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/controller/AuthorizationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/AuthorizationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="53" column="72" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="72" />
+              <folding>
+                <element signature="e#4464#4465#0" expanded="true" />
+                <element signature="e#4520#4521#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="105" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>authorizationService</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/controller/AuthorizationController.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+      <option value="$PROJECT_DIR$/src/main/resources/mapper/GatewayDao.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/GatewayDao.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/AuthorizationDao.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/AuthorizationService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/AuthorizationMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/GatewayMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/GatewaySubDeviceAttributeMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/GatewaySubDeviceMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/GatewaySupportAttributeMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/SysConfigMapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/ApplicationMain.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/ScheduledTaskService.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gatewayHttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatewayHttpServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatewayHttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatewayHttpServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatewayHttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatewayHttpServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatewayHttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatewayHttpServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatewayHttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatewayHttpServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gatewayHttpServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatewayHttpServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatewayHttpServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="局部" currentWorkingDirectory="D:\dev\project\examples\gatewayHttpServer\" commandHistoryFileName="history-1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6273000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29470864" />
+      <window_info id="Commit" order="1" />
+      <window_info id="Pull Requests" order="2" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info id="Structure" order="4" weight="0.22705962" />
+      <window_info id="Learn" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.73480666" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.6477901" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3646409" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2845304" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="13" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="Endpoints" order="15" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.24723756" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="18" />
+      <window_info anchor="bottom" id="Services" order="19" show_stripe_button="false" />
+      <window_info anchor="right" id="Word Book" order="0" side_tool="true" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.11051574" />
+      <window_info anchor="right" id="Bean Validation" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="布局验证" order="4" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="83" key="#Project_Structure" timestamp="1613978872069">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="460" y="83" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1613978872069" />
+    <state x="1273" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1614040527759">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1273" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1614040527759" />
+    <state width="1493" height="441" key="GridCell.Tab.0.bottom" timestamp="1614056448657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614056448657" />
+    <state width="1493" height="441" key="GridCell.Tab.0.center" timestamp="1614056448657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614056448657" />
+    <state width="1493" height="441" key="GridCell.Tab.0.left" timestamp="1614056448657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614056448657" />
+    <state width="1493" height="441" key="GridCell.Tab.0.right" timestamp="1614056448657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614056448657" />
+    <state width="1493" height="441" key="GridCell.Tab.1.bottom" timestamp="1614056448658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614056448658" />
+    <state width="1493" height="441" key="GridCell.Tab.1.center" timestamp="1614056448657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614056448657" />
+    <state width="1493" height="441" key="GridCell.Tab.1.left" timestamp="1614056448657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614056448657" />
+    <state width="1493" height="441" key="GridCell.Tab.1.right" timestamp="1614056448658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614056448658" />
+    <state width="1493" height="236" key="GridCell.Tab.2.bottom" timestamp="1614056448653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614056448653" />
+    <state width="1493" height="236" key="GridCell.Tab.2.center" timestamp="1614056448652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1614056448652" />
+    <state width="1493" height="236" key="GridCell.Tab.2.left" timestamp="1614056448652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1614056448652" />
+    <state width="1493" height="236" key="GridCell.Tab.2.right" timestamp="1614056448653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1614056448653" />
+    <state x="299" y="67" width="938" height="689" key="Maven.ArtifactSearchDialog" timestamp="1614053491135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" width="938" height="689" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1614053491135" />
+    <state x="249" y="0" width="996" height="710" key="SettingsEditor" timestamp="1614055230125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614055230125" />
+    <state x="311" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1613805743471" />
+    <state x="309" y="75" width="816" height="678" key="new project wizard" timestamp="1614060904970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="309" y="75" width="816" height="678" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1614060904970" />
+    <state x="151" y="151" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1613963983278" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/gateway/networkMsg/GatewaySubDeviceIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/gateway/networkMsg/GatewaySubDeviceCtlCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/GatewaySupportAttributeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/controller/GatewayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../repository/org/apache/mina/mina-core/2.1.3/mina-core-2.1.3.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../repository/org/apache/mina/mina-core/2.1.4/mina-core-2.1.4.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/SocketService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/utils/RegexUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/utils/ReturnMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/utils/StaticConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/utils/AuthorizationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/vo/GatewaySubDeviceAttributeVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/vo/GatewaySubDeviceCtlVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/vo/GatewaySubDeviceVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/vo/GatewayVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/entity/GatewaySubDeviceAttributeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/entity/GatewaySubDeviceEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/entity/GatewaySupportAttributeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/entity/SysConfigEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/entity/AuthorizationEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/entity/GatewayEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/gateway/networkMsg/GatewayDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/utils/MybatisUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/GatewayDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../repository/org/springframework/boot/spring-boot-configuration-processor/2.1.7.RELEASE/spring-boot-configuration-processor-2.1.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../repository/org/mybatis/mybatis-spring/2.0.5/mybatis-spring-2.0.5-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="87" column="31" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/mapper/GatewayDao.xml" />
+    <entry file="jar://$PROJECT_DIR$/../../repository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/stereotype/Repository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/GatewayDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/AuthorizationDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/SysConfigDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/GatewayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="26" />
+          <folding>
+            <element signature="e#2204#2205#0" expanded="true" />
+            <element signature="e#2248#2249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../repository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="54" column="31" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/SysConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/GatewayMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/GatewaySubDeviceAttributeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="79" selection-start-line="2" selection-start-column="79" selection-end-line="2" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/GatewaySubDeviceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/GatewaySupportAttributeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/SysConfigMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/dao/mapper/AuthorizationMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../repository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/scheduling/annotation/EnableScheduling.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/ApplicationMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/ScheduledTaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2290#2291#0" expanded="true" />
+            <element signature="e#2350#2351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/controller/AuthorizationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Incast/gatewayHttpServer/service/AuthorizationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="53" column="72" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="72" />
+          <folding>
+            <element signature="e#4464#4465#0" expanded="true" />
+            <element signature="e#4520#4521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="105" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
